@@ -1,0 +1,38 @@
+ 
+ #pagina{
+ 	background-color: #DDDDDD;
+	box-shadow: 5px 5px #888888;
+	padding: 40px; 
+ }
+ 
+ #pr{
+ 	background-color: #009900;
+}
+
+.divButton{
+	background-color: #009900;
+	color: #ffffff;
+	height: 80px;
+	text-align: center;
+	font-family: sans-serif;
+	border-radius:5px;
+	box-shadow: 5px 5px #888888;
+}
+
+#menu{
+ 	background-color: #ffffff;
+	min-height: 300px;
+	padding:20px;
+}
+
+#menuConfirm{
+	background-color: #ffffff;
+	min-height: 300px;
+	padding:20px;
+}
+
+#menuRiepilogo{
+	background-color: #ffffff;
+	min-height: 300px;
+	padding:20px;
+}
